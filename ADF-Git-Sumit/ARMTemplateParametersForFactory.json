@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADF-Git-Sumit"
+		},
+		"AzureBlobStorage1LS_connectionString": {
+			"value": ""
 		}
 	}
 }
