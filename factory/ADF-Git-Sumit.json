@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Git-Sumit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac15a95f-4b60-4e3e-afe4-11e23149e4ab",
+		"tenantId": "d1fcf20c-483e-45f9-b1e5-e9ef021fc057"
+	}
+}
